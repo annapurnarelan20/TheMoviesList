@@ -1,0 +1,72 @@
+{
+    "responseMessage": {
+        "landingTime": "2021-05-26T18:22:58.284+0000",
+        "responseTime": "2021-05-26T18:22:58.340+0000",
+        "message": "SUCCESS",
+        "status": 0,
+        "httpStatus": 200
+    },
+    "responseData": [
+        {
+        "id": 122333333,
+        "movieName": "pushpa",
+        "image" : "1",
+        "description" : "regarding the movie"
+        },
+        
+        {
+             "id": 122333333,
+             "movieName": "Puspa",
+              "image" : "2",
+              "description" : "regarding the movie"
+        },
+        
+        {
+           "id": 122333333,
+           "movieName": "Puspa",
+           "image" : "3",
+           "description" : "regarding the movie"
+        },
+        {
+                             "id": 122333333,
+                                "movieName": "Puspa",
+                                "image" : "4",
+                                "description" : "regarding the movie"
+        },
+        {
+                                "id": 122333333,
+                                "movieName": "Puspa",
+                                "image" : "5",
+                                "description" : "regarding the movie"
+        },
+        {
+                                "id": 122333333,
+                                "movieName": "Puspa",
+                                "image" : "6",
+                                "description" : "regarding the movie"
+        },
+       {
+                                "id": 122333333,
+                                "movieName": "Puspa",
+                                "image" : "7",
+                                "description" : "regarding the movie"
+                    },
+
+                    {
+                                   "id": 122333333,
+                                   "movieName": "Puspa",
+                                   "image" : "8",
+                                   "description" : "regarding the movie"
+                    },
+                    {
+                                   "id": 122333333,
+                                   "movieName": "Puspa",
+                                   "image" : "9",
+                                   "description" : "regarding the movie"
+                    }
+
+    ],
+    "errorData": {},
+    "type": "getLeaveDetailByPid",
+    "title": "getLeaveDetailByPid"
+}
